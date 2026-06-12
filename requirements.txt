@@ -1,0 +1,40 @@
+# Core scientific stack
+numpy
+matplotlib
+seaborn
+pandas
+scipy
+
+# Image processing (classic)
+pillow
+opencv-python
+scikit-image
+
+# Machine learning / deep learning (PyTorch ecosystem)
+torch
+torchvision
+scikit-learn
+
+# Object detection (YOLO)
+ultralytics
+
+# Hugging Face: pretrained models, generation & detection
+transformers
+diffusers
+accelerate
+safetensors
+
+# Explainability
+grad-cam
+
+# Dataset visualization
+fiftyone
+
+# Jupyter
+jupyterlab
+ipywidgets
+jupytext
+
+# Utilities
+requests
+tqdm
